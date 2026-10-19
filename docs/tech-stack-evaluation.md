@@ -1,14 +1,14 @@
 # Tech Stack Evaluation
 
 ## Project
-[Name of your Assignment 1 or FYP project, in one line]
+[AI Fitness coach using convolutional neural network]
 
 ## Requirements that drive the decision
 List 3 to 5 requirements from your own docs/requirements.md. Include at
 least 2 non-functional requirements.
-- [FR or NFR number]: [requirement]
-- [FR or NFR number]: [requirement]
-- [FR or NFR number]: [requirement]
+- [FR or NFR number]: [usability]
+- [FR or NFR number]: [maintenance]
+- [FR or NFR number]: [riliability]
 
 ## Options
 - Option A: [for example: static website (HTML and JavaScript) on GitHub Pages]
@@ -22,12 +22,12 @@ Weighted score = weight x score. Add them up for each option.
 
 | Criterion                          | Weight | A score | B score | C score |
 |------------------------------------|--------|---------|---------|---------|
-| Fits my requirements               |        |         |         |         |
-| Skills I already have              |        |         |         |         |
-| Time to build before my deadline   |        |         |         |         |
-| Free hosting and tools             |        |         |         |         |
-| Performance and security needs     |        |         |         |         |
-| Room to grow later                 |        |         |         |         |
+| Fits my requirements               |   4    |         |         |         |
+| Skills I already have              |   5    |         |         |         |
+| Time to build before my deadline   |   4    |         |         |         |
+| Free hosting and tools             |   2    |         |         |         |
+| Performance and security needs     |   2    |         |         |         |
+| Room to grow later                 |   3    |         |         |         |
 | **Total (weighted)**               |        |         |         |         |
 
 ## Decision record
